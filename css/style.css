@@ -1,0 +1,40 @@
+.container{
+    width: 80%;
+    margin: 0 auto;
+ 
+    
+}
+body{
+margin 0;
+    background-color: beige;
+}
+.barra{
+    font-weight: bold;
+    font-size: 20px;
+    margin: 10px;
+}
+.left{
+ width:  35%;
+ float: left;
+
+    
+}
+.right{
+    width: 65%;
+float: right;
+text-align: right;
+
+}
+.cb{
+
+
+clear: both;
+}
+.text-gris{
+ color: grey;
+
+}
+.mx-10{
+      margin: 0 10px;
+
+}
